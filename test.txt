@@ -6,4 +6,4 @@ Today is Sunday!
 Git branch Test.
 Again......
 
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
